@@ -1,2 +1,37 @@
-# Flower-Classification-using-CNN
-Developed a Flower Image Classification system using CNN with TensorFlow and Keras. Implemented Conv2D, MaxPooling, data augmentation, dropout, and softmax layers for image classification. Achieved ~74% test accuracy and performed model training, evaluation, preprocessing, and prediction visualization using Python and Matplotlib.
+# Flower Classification using CNN
+
+This project uses Convolutional Neural Networks (CNN) with TensorFlow and Keras to classify flower images.
+
+## Features
+- CNN Architecture
+- Data Augmentation
+- Dropout Regularization
+- Softmax Classification
+- Image Prediction
+- TensorFlow/Keras
+
+## Technologies Used
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+
+## Model Architecture
+- Conv2D
+- MaxPooling2D
+- Dropout
+- Dense Layers
+- Softmax Output
+
+## Accuracy
+- Training Accuracy: 88%
+- Test Accuracy: 74%
+
+## Dataset
+TensorFlow Flower Dataset
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
